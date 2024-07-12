@@ -1,1 +1,2 @@
-# Jogo-do-N-mero-Secreto
+# Jogo-do-Numero-Secreto
+##Desenvolvido utilizando HTML, CSS e JavaScript
